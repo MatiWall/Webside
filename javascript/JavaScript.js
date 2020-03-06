@@ -12,7 +12,9 @@ $(".gridster > ul").gridster({
 
 });
 
-var canvas = document.getElementById(“chart1”).getContext(“2 d”);
+
+
+var canvas = document.getElementById('chart1').getContext('2 d');
 
 new Chart(canvas, {
 
@@ -24,7 +26,7 @@ new Chart(canvas, {
 
         datasets: [{
 
-            label: ‘Company A’,
+            label: "Company A",
 
             data: [12, 19, 3, 17, 6, 3, 7],
 
@@ -32,7 +34,7 @@ new Chart(canvas, {
 
         }, {
 
-            label: ' Company B',
+            label: "Company B",
 
             data: [2, 29, 5, 5, 2, 3, 10],
 
