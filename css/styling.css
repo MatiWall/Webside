@@ -1,9 +1,4 @@
 
-body, * {
-    font-family : "Arial", sans-serif;
-    box-sizing: border-box;
-} 
-
 .menu {
     background-color : #666;
     list-style : none;
@@ -21,8 +16,4 @@ body, * {
 .menu-item a:hover {
     color: #333;
     background-color: #fff;
-}
-
-.menu-item {
-    float: left;
 }
