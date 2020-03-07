@@ -1,15 +1,26 @@
 
-#navigationPanel {
+body, * {
+    font-family : "Arial", sans-serif;
+    box-sizing: border-box;
+} 
+
+.menu {
     background-color : #666;
     list-style : none;
     margin: 0;
-    height: 05vh;
 }
 
+.menu-item {
+    float: left;
+}
 
 .menu-item a {
     color: #eee;
     text-decoration: none;
     display: block;
     padding: 1em;
+}
+
+.cf {
+    clear: both;
 }
