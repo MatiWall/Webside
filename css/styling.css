@@ -6,7 +6,7 @@
 }
 
 
-#mainMenu li {
+#main-menu li {
 	display:block;
 	width:120px;
 	float:left;
@@ -15,7 +15,7 @@
 }
 
 
-#mainMenu a {
+#main-manu a {
 	display:block;
 	padding:3px;
 	text-decoration:none;
