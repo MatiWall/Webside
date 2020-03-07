@@ -28,7 +28,8 @@ main {
 
 .navbar {
     margin: 0;
-    height: 3rem;
+    top: 0;
+    height: 5rem;
     width: 100vw;
     position: fixed;
     background-color: var(--bg-primary);
@@ -41,7 +42,7 @@ main {
     display: flex;
     flex-direction: row;
     align-items: center;
-    height: 100%;
+    width: 100%;
 }
 
 
