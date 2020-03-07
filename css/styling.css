@@ -21,6 +21,11 @@ body, * {
     padding: 1em;
 }
 
+.menu-item a:hover {
+    color: #333;
+    background-color: #fff;
+}
+
 .cf {
     clear: both;
 }
