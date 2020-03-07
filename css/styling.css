@@ -10,9 +10,6 @@ body, * {
     margin: 0;
 }
 
-.menu-item {
-    float: left;
-}
 
 .menu-item a {
     color: #eee;
@@ -26,3 +23,6 @@ body, * {
     background-color: #fff;
 }
 
+.menu-item {
+    float: left;
+}
