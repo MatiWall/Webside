@@ -28,7 +28,7 @@ main {
 
 .navbar {
     margin: 0;
-    height: 5rem;
+    height: 3rem;
     width: 100vw;
     position: fixed;
     background-color: var(--bg-primary);
