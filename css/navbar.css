@@ -10,7 +10,7 @@
     background-color: var(--bg-primary);
 }
 
-.navbar .navbar-nav {
+.navbar-nav {
     list-style: none;
     padding: 0;
     padding-left: 1rem;
@@ -21,18 +21,18 @@
     height: 100%;
 }
 
-.navbar .navbar-nav li {
+.navbar-nav li {
     margin-right: 20px;
 }
 
-.navbar .nav-item a {
+.nav-item a {
     color: #eee;
     text-decoration: none;
     display: block;
     padding: 1em;
 }
 
-.navbar .nav-item a:hover {
+.nav-item a:hover {
     color: #333;
     background-color: #fff;
 }
