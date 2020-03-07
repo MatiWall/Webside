@@ -53,6 +53,14 @@ main {
 .nav-item {
     font-size: 20px;
     font-weight: 900;
+    color: white;
+}
+
+.nav-item:hover {
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    background-color: white;
 }
 
 
