@@ -22,9 +22,22 @@ main {
 
 }
 
+
+
+
+
 .navbar {
     width: 5rem;
     height: 100vh;
     position: fixed;
     background-color: var(--bg-primary);
+}
+
+.navbar-nav {
+    list-style: 0;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
