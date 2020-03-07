@@ -5,3 +5,11 @@
     margin: 0;
     height: 05vh;
 }
+
+
+.menu-item a {
+    color: #eee;
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+}
