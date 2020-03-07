@@ -43,10 +43,12 @@ main {
     flex-direction: row;
     align-items: center;
     height: 100%;
+
+    font-size: 26px;
 }
 
 .navbar li {
-    margin-right: 40px;
+    margin-right: 20px;
 }
 
 
