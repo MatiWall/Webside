@@ -34,7 +34,7 @@ main {
 }
 
 .navbar-nav {
-    list-style: 0;
+    list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
