@@ -19,5 +19,12 @@ body {
 
 main {
     margin-left: 5rem;
-    
+
+}
+
+.navbar {
+    width: 5rem;
+    height: 100vh;
+    position: fixed;
+    background-color: var(--bg-primary);
 }
