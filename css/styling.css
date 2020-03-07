@@ -50,18 +50,16 @@ main {
     margin-right: 20px;
 }
 
-.nav-item {
-    font-size: 20px;
-    font-weight: 900;
-    color: white;
+.nav-item a {
+    color: #eee;
+    text-decoration: none;
+    display: block;
+    padding: 1em;
 }
 
-.nav-item:hover {
-    font-size: 20px;
-    font-weight: 900;
-    color: black;
-    background-color: white;
-}
+.nav-item a:hover {
+    color: #333;
+    background-color: #fff;}
 
 
 
