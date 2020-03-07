@@ -23,7 +23,7 @@ body, * {
 
 .menu-item a:hover {
     color: #333;
-   
+    background-color: #fff;
 }
 
 .cf {
