@@ -1,24 +1,26 @@
 
-.menu {
-    background-color : #666;
-    list-style : none;
-    margin: 0;
-}
-
-.menu-item {
-    float: left;
+#main-menu {
+    margin: 10px;
+	width: 900px;
+	font-family: sans-serif;
 }
 
 
-.menu-item a {
-    color: #eee;
-    text-decoration: none;
-    display: block;
-    padding: 1em;
+#mainMenu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
 }
 
-.menu-item a:hover {
-    color: #333;
-    background-color: #fff;
+
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:#009;
 }
+			
 
