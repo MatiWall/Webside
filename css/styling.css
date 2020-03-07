@@ -1,26 +1,19 @@
 
-#main-menu {
-    margin: 10px;
-	width: 900px;
-	font-family: sans-serif;
+:root {
+font-size: 16px;
+font-family: 'Open Sans';
+--text-primary: #b6b6b6;
+--text-secondary: #ececec;
+--bg-primary: #23232e;
+--bg-secondary: #121218;
+
+
 }
 
-
-#main-menu li {
-	display:block;
-	width:120px;
-	float:left;
-	margin-left:2px;
-	border:1px solid #000;
+body {
+    color: black;
+    background-color: white;
+    margin: 0;
+    padding: 0;
 }
-
-
-#main-manu a {
-	display:block;
-	padding:3px;
-	text-decoration:none;
-	background-color:#fff;
-	color:#009;
-}
-			
 
