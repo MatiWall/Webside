@@ -5,6 +5,10 @@
     margin: 0;
 }
 
+.menu-item {
+    float: left;
+}
+
 
 .menu-item a {
     color: #eee;
@@ -17,3 +21,4 @@
     color: #333;
     background-color: #fff;
 }
+
