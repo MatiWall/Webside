@@ -27,6 +27,7 @@ main {
 
 
 .navbar {
+    margin: 0;
     height: 5rem;
     width: 100vw;
     position: fixed;
