@@ -6,10 +6,11 @@
 }
 
 .main-wrap-left {
+    margin-left: 5vw;
     margin-right: 2.5vw;
 }
 
 .main-wrap-right {
-    margin-right: 2.5vw;
+    margin-left: 2.5vw;
 }
 
