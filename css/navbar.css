@@ -35,6 +35,7 @@
 .nav-item a:hover {
     color: #333;
     background-color: #fff;
+    transition: 500ms;
 }
 
 
