@@ -6,8 +6,10 @@
 }
 
 .main-wrap-left {
-    padding: 0.1;
+    margin-right: 2.5vw;
 }
 
-
+.main-wrap-right {
+    margin-right: 2.5vw;
+}
 
