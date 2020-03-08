@@ -7,3 +7,7 @@
 .main-wrap > div {
     flex: 1;
 }
+
+img.cv-picture {
+    width: 30%;
+}
