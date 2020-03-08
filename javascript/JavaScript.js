@@ -1,5 +1,5 @@
 
 $(function(){
-    $("#navigationPanel").load("../html/navigationPanel.html");
+    $("#nav-placeholder").load("../html/navigationPanel.html");
 });
 
