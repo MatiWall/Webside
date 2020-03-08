@@ -1,21 +1,9 @@
 
-.split-left {
-    height: 100%;
-    width: 40%;
-
+.main-wrap {
+    display: flex;
+    flex-direction: row;
 }
 
-.split-right {
-    height: 100%;
-    width: 60%;
-
-}
-
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-
+.main-wrap > div {
+    flex: 1;
 }
