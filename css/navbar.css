@@ -30,12 +30,13 @@
     text-decoration: none;
     display: block;
     padding: 1em;
+    transition: 400ms;
 }
 
 .nav-item a:hover {
     color: #333;
     background-color: #fff;
-    transition: 500ms;
+    transition: 400ms;
 }
 
 
